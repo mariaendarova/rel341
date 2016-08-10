@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Test Gap",
+  "ProjectGuid": "f8152257-81a4-4c6e-967f-95b4b4fdc60f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TestGap",
+  "DisplayName": "Test Gap",
+  "Author": "",
+  "Description": "Test Gap",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5e61c510-8b4c-45a5-8cac-7a9b3be0b335}",
+  "WP8ProductID": "{e54fec44-7973-4801-9537-5828d3d9918a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TestGap",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
